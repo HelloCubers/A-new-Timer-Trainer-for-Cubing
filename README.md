@@ -1,2 +1,2 @@
-# yooo
-A cubing website
+# A New Timer/Trainer
+
