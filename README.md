@@ -1,0 +1,2 @@
+# yooo
+A cubing website
